@@ -54,12 +54,9 @@ A modern AI-powered task management application.
 ### 4. Add Live Demo Links
 Deploy your projects and add links such as:
 
-```text
-🌐 Live Demo
-🔗 [Portfolio](https://e-websolutions.netlify.app/)
-📂 Source Code
 
-## 🚀 Installation
+🔗 https://e-websolutions.netlify.app/
+
 
 
 
